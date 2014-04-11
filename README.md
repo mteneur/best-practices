@@ -21,9 +21,6 @@ Toutes les bonnes pratiques de code
 
 [MDO code guide](https://github.com/mdo/code-guide)
 
-## Outils
 
-- [PHPCS](https://github.com/squizlabs/PHP_CodeSniffer)
-- [PHPCS-Fixer](https://github.com/fabpot/PHP-CS-Fixer)
-- [JSHINT](http://www.jshint.com/docs)
-- [HTMLHINT](https://github.com/yaniswang/HTMLHint)
+
+
